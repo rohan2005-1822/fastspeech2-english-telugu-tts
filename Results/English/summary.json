@@ -1,0 +1,87 @@
+{
+ "E1": {
+  "n_tokens": 107,
+  "audio_sec": 7.27,
+  "total_pred_dur_sec": 7.27,
+  "sp_dur_sec": 0.77,
+  "pitch_hz_mean_voiced": 190.5,
+  "pitch_hz_min_max": [
+   151.8,
+   269.0
+  ],
+  "unvoiced_tokens(<1Hz)": 0,
+  "energy_min_max": [
+   2.45,
+   29.94
+  ],
+  "tokens": "{en_t en_h en_e sp en_a en_n en_t en_i en_d en_i en_s en_e en_s en_t en_a en_b en_l en_i en_s en_h en_m en_e en_n en_t en_a en_r en_i en_a en_n en_i en_s en_m sp en_m en_o en_v en_e en_m en_e en_n en_t sp en_g en_a en_i en_n en_e en_d sp en_c en_o en_n en_s en_i en_d en_e en_r en_a en_b en_l en_e sp en_m en_o en_m en_e en_n en_t en_u en_m sp en_d en_u en_r en_i en_n en_g sp en_t en_h en_e sp en_p en_a en_r en_l en_i en_a en_m en_e en_n en_t en_a en_r en_y sp en_p en_r en_o en_c en_e en_e en_d en_i en_n en_g en_s}"
+ },
+ "E2a": {
+  "n_tokens": 70,
+  "audio_sec": 4.64,
+  "total_pred_dur_sec": 4.64,
+  "sp_dur_sec": 0.5,
+  "pitch_hz_mean_voiced": 193.9,
+  "pitch_hz_min_max": [
+   152.6,
+   249.0
+  ],
+  "unvoiced_tokens(<1Hz)": 0,
+  "energy_min_max": [
+   1.68,
+   33.24
+  ],
+  "tokens": "{en_t en_h en_e sp en_o en_r en_c en_h en_e en_s en_t en_r en_a en_s sp en_c en_o en_n en_d en_u en_c en_t sp en_d en_u en_r en_i en_n en_g sp en_t en_h en_e sp en_c en_e en_r en_e en_m en_o en_n en_y sp en_w en_a en_s sp en_p en_r en_a en_i en_s en_e en_d sp en_b en_y sp en_t en_h en_e sp en_a en_u en_d en_i en_e en_n en_c en_e}"
+ },
+ "E2b": {
+  "n_tokens": 74,
+  "audio_sec": 4.64,
+  "total_pred_dur_sec": 4.64,
+  "sp_dur_sec": 0.33,
+  "pitch_hz_mean_voiced": 189.7,
+  "pitch_hz_min_max": [
+   152.9,
+   250.6
+  ],
+  "unvoiced_tokens(<1Hz)": 0,
+  "energy_min_max": [
+   2.58,
+   47.18
+  ],
+  "tokens": "{en_t en_h en_e sp en_r en_e en_s en_e en_a en_r en_c en_h en_e en_r en_s sp en_w en_i en_l en_l sp en_c en_o en_n en_d en_u en_c en_t sp en_a en_n sp en_e en_x en_p en_e en_r en_i en_m en_e en_n en_t sp en_t en_o sp en_e en_v en_a en_l en_u en_a en_t en_e sp en_t en_h en_e sp en_p en_r en_o en_p en_o en_s en_e en_d sp en_m en_e en_t en_h en_o en_d}"
+ },
+ "E3": {
+  "n_tokens": 49,
+  "audio_sec": 3.04,
+  "total_pred_dur_sec": 3.04,
+  "sp_dur_sec": 0.31,
+  "pitch_hz_mean_voiced": 197.6,
+  "pitch_hz_min_max": [
+   166.0,
+   252.0
+  ],
+  "unvoiced_tokens(<1Hz)": 0,
+  "energy_min_max": [
+   2.97,
+   48.31
+  ],
+  "tokens": "{en_t en_h en_e sp en_r en_h en_y en_t en_h sp en_m sp en_o en_f sp en_t en_h en_e sp en_o en_r en_c en_h en_e en_s en_t en_r en_a sp en_c en_h en_a en_n en_g en_e en_d sp en_u en_n en_e en_x en_p en_e en_c en_t en_e en_d en_l en_y}"
+ },
+ "E4": {
+  "n_tokens": 114,
+  "audio_sec": 6.95,
+  "total_pred_dur_sec": 6.95,
+  "sp_dur_sec": 1.06,
+  "pitch_hz_mean_voiced": 193.3,
+  "pitch_hz_min_max": [
+   151.0,
+   262.3
+  ],
+  "unvoiced_tokens(<1Hz)": 0,
+  "energy_min_max": [
+   2.57,
+   36.96
+  ],
+  "tokens": "{en_t en_h en_e sp en_m en_e en_e en_t en_i en_n en_g sp en_w en_i en_l en_l sp en_s en_t en_a en_r en_t sp en_a en_t sp en_t en_e en_n sp en_f en_o en_r en_t en_y sp en_f en_i en_v en_e sp en_a sp en_m sp en_o en_n sp en_t en_w en_e en_l en_v en_e sp en_n en_o en_v en_e en_m en_b en_e en_r sp en_t en_w en_e en_n en_t en_y sp en_t en_w en_e en_n en_t en_y sp en_s en_i en_x sp en_s en_o sp en_a en_n en_d en_a en_r en_o en_o sp en_s en_h en_o en_u en_l en_d sp en_a en_r en_r en_i en_v en_e sp en_o en_n sp en_t en_i en_m en_e}"
+ }
+}

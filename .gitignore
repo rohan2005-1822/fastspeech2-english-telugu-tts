@@ -1,0 +1,5 @@
+
+__pycache__/
+*.pth.tar
+*.pt
+raw_data/

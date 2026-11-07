@@ -1,0 +1,11 @@
+language,utterance,word_groups,wav_duration_seconds,word_duration_seconds,space_token_duration_seconds,total_frame_duration_seconds
+English,E1,10,7.2678,6.5016,0.7663,7.2678
+English,E2a,11,4.644,4.1448,0.4992,4.644
+English,E2b,11,4.644,4.3189,0.3251,4.644
+English,E3,8,3.0418,2.7283,0.3135,3.0418
+English,E4,22,6.9544,5.8979,1.0565,6.9544
+Telugu,T1,6,5.7005,5.0968,0.6037,5.7005
+Telugu,T2a,6,3.3437,2.5426,0.8011,3.3437
+Telugu,T2b,6,2.9489,2.6239,0.3251,2.9489
+Telugu,T3,4,2.6703,2.2175,0.4528,2.6703
+Telugu,T4,18,11.2617,8.2315,3.0302,11.2617

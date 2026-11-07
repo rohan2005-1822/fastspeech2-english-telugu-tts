@@ -1,0 +1,16 @@
+English checkpoint: step 20,000. Speaker: spk028 (speaker ID 94) for all five test sentences.
+
+Selection method: 12 candidate training speakers were each used to synthesize 20 held-out validation sentences;
+the audio was transcribed with Whisper-small and scored by word error rate (WER) against the validation text
+(lowercased, punctuation removed). spk028 had the lowest mean WER (0.160); runner-up spk074 scored 0.181; the
+12 speakers ranged from 0.160 to 0.255. With only 20 sentences per speaker this is a noisy proxy for
+intelligibility, not a quality measurement, and the differences between top candidates are within its noise.
+Full table: speaker_selection_validation_wer.csv.
+
+History: a first run of this selection was invalid (a bug made every synthesized clip say the same sentence)
+and was discarded. The table here comes from the corrected rerun.
+
+Test sentences: E3 is synthesized as given ("rhyth m"). For E4 the digits were expanded to words before
+synthesis ("ten forty five a m on twelve november twenty twenty six") because the training transcripts
+contained no digits; the original text is kept in test_sentences.json. Apostrophes are dropped by the
+tokenizer ("orchestra's" -> "orchestras"); no training transcript contained one.
